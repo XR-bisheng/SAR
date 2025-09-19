@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conda命令.md",
+                "file": "DATA1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conda命令"
+              "title": "DATA1.0"
             }
           }
         ],
@@ -210,14 +210,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "75b981659ac64e56",
+  "active": "fe051174149f88cd",
   "lastOpenFiles": [
-    "NMS.md",
-    "conda命令.md",
     "模型比较.md",
-    "归一化.md",
-    "Excalidraw/Drawing 2025-09-16 09.48.45.excalidraw.md",
     "Excalidraw/Drawing 2025-09-16 09.48.31.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-16 09.48.45.excalidraw.md",
+    "conda命令.md",
+    "NMS.md",
+    "归一化.md",
     "创建链接.md",
     "Excalidraw",
     "未命名",
